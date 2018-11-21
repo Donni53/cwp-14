@@ -1,0 +1,14 @@
+{
+  "name": "cwp-13",
+  "version": "0.0.1",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "geolib": "^2.0.24",
+    "mysql2": "^1.5.1",
+    "sequelize": "^4.22.11",
+    "sequelize-cli": "^3.2.0",
+    "sqlite3": "https://github.com/mapbox/node-sqlite3/tarball/master"
+  }
+}
